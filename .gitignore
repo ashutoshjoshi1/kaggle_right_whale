@@ -3,4 +3,6 @@ misc/
 models/
 subs/
 .ipynb_checkpoints/
+project/extras/
+trials/
 *.csv
