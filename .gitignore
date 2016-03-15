@@ -1,0 +1,6 @@
+data/
+misc/
+models/
+subs/
+.ipynb_checkpoints/
+*.csv
