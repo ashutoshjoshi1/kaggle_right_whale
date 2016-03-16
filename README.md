@@ -1,6 +1,4 @@
-# Pattern Detection and Recognition using Deep Learning
-
-This repository holds code for our project ***Pattern Detection and Recognition using Deep Learning***
+# Code for Pattern Detection and Recognition using Deep Learning
 
 By Manasi Khapke, Shraddha Gunjal, Faizan Shaikh
 
@@ -13,10 +11,10 @@ We demonstrate the use of CNN for two tasks, Detection and Recognition
 
 ## Code File Description
 
-  * 'toy_classifier.ipynb' : Digit Recognition for MNIST
+  * `toy_classifier.ipynb` : Digit Recognition for MNIST
   
-  * 'toy_localizer.ipynb' : Facial Keypoints Detection
+  * `toy_localizer.ipynb` : Facial Keypoints Detection
   
-  * 'whale_localizer.ipynb' : Right Whale Localizer
+  * `whale_localizer.ipynb` : Right Whale Localizer
   
-  * 'whale_classifier.ipynb' : Right Whale Classifier   
+  * `whale_classifier.ipynb` : Right Whale Classifier   
