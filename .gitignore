@@ -5,4 +5,5 @@ subs/
 .ipynb_checkpoints/
 project/extras/
 trials/
+*.pyc
 *.csv
