@@ -39,3 +39,5 @@ We demonstrate the use of CNN for two tasks, Detection and Recognition.
   * https://github.com/ebenolson/kaggle-whale
   
   * https://github.com/anlthms/whale-2015
+ 
+  * http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
